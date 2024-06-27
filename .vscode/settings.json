@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.py": "python",
+    "*.json": "jsonc",
+    "stdbool.h": "c"
+  }
+}
